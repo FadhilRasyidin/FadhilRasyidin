@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/badge/follow%20me%20on-twitter!-blue?style=for-the-badge&logo=twitter)](https://twitter.com/FadhilRasyidin)
 
-- 📚 I'm currently learning everything
+- 📚 Currently learning everything
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Click the link and hit follow
