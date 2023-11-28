@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/badge/follow%20me%20on-twitter!-blue?style=for-the-badge&logo=twitter)](https://twitter.com/FadhilRasyidin)
 
 - 📚 Currently learning everything
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Hit follow
 
